@@ -4,5 +4,7 @@ Here, I share a few of my Colab notebooks related to Detectron2 for object detec
   - Pascal VOC 2007
   - MS COCO 2014
 - Data augmentation on datasets (Three different ways)
-- Using a pre-trained model on a single image (No training is needed)
+- Using a pre-trained model on a single image for object detection (No training is needed)
 - Fine-tuning an object detection model on the Pascal VOC dataset
+- Fine-tuning an object detection model on the Mushroom dataset (With a COCO model)
+
